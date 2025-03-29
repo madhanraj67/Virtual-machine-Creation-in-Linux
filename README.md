@@ -61,8 +61,8 @@ vi /etc/hostname
 cat /etc/hostname
 ```
 
-### REG NUMBER: 212222100039
-### NAME: PRIYADHARSHINI P
+### REG NUMBER: 212223220052
+### NAME: MADHANRAJ P
 
 ## OUTPUT
 ![cloud exp1](https://github.com/user-attachments/assets/c93ae600-52f3-4446-8d50-304e8c5b0474)
